@@ -57,3 +57,10 @@ console.log(
     to: 'rgba',
   })
 );
+
+console.log(
+  colorTranslator({
+    color: 'FFFFCCFF',
+    to: 'rgb',
+  })
+);
